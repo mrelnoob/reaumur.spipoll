@@ -5,6 +5,8 @@
 # Note that I manually added this project and its files into my Github account that can be found at the
 # following URL: https://github.com/mrelnoob/reaumur.spipoll
 
+usethis::use_git_ignore("spipoll.Rproj")
+
 ########### *-----------------------------------------------------* ############
 ############################ Main Git commits ##################################
 # ---------------------------------------------------------------------------- #
