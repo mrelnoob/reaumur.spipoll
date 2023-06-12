@@ -26,7 +26,7 @@ sessionInfo()
 ## Résumé général
 
 Pour le moment, je ne présente que les traitements qui concernent l'ensemble des ordres d'arthropodes (potentiellement pollinisateurs), à savoir les 8 ordres suivants par ordre de fréquence décroissante: **diptères** (mouches, syrphes etc.), **hyménoptères** (abeilles, guêpes, fourmis etc.), **coléoptères** (carabes etc.), **lépidoptères** (papillons), **hémiptères** (punaises, pucerons etc.), **Aranéides** (araignées), **orthoptères** (sauterelles, grillons etc.), et **névroptères** (mantispe etc.).
-Je n'ai pas eu le temps de refaire tourner les analyses pour les 4 ordres principaux de pollinisateurs.
+Je n'ai pas eu le temps de refaire tourner les analyses pour les 4 ordres principaux de pollinisateurs. 
 
 ```{r data import and summary, include=TRUE}
 library(magrittr)
