@@ -2,6 +2,29 @@
 ##################### PRELIMINARY ANALYSES FOR Spipoll data ####################
 ######## *------------------------------------------------------------* ########
 
+# Note that I manually added this project and its files into my Github account that can be found at the
+# following URL: https://github.com/mrelnoob/reaumur.spipoll
+
+########### *-----------------------------------------------------* ############
+############################ Main Git commits ##################################
+# ---------------------------------------------------------------------------- #
+usethis::use_git(message = ":boom: First generated results!")
+usethis::use_git(message = ":metal: Created a new function")
+usethis::use_git(message = ":zap: Ignoring something")
+usethis::use_git(message = ":pencil: Documented a function or wrote something")
+usethis::use_git(message = ":hammer: Ongoing programming!")
+usethis::use_git(message = ":white_check_mark: Updated the {target} pipeline")
+usethis::use_git(message = ":x: Problem detected!")
+#system("git push") # Or using a CLI!
+# Don't forget to push your commits once you're sure you made no mistakes.
+# ---------------------------------------------------------------------------- #
+# ------------------------------- THE END ------------------------------------ #
+########### *-----------------------------------------------------* ############
+
+
+
+
+
 # ---------------------- #
 ##### 0. Data import #####
 # ---------------------- #
